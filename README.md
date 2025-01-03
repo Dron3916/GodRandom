@@ -8,13 +8,13 @@
 Install via pip:  
 
 ```bash
-pip install godrandom
+pip install GodRandom
 ```  
 
 Or download the source code and install it locally:  
 
 ```bash
-pip install .
+pip install dist/GodRandom-0.1-py3-none-any.whl
 ```  
 
 Alternatively, clone the repository:  
@@ -83,4 +83,4 @@ The library is simple and easy to use. It provides the following functionalities
 4. Generate random strings (`get_randstring`)  
 5. Get your API usage details (`get_api_info`)  
 
-Feel free to explore and use it in your projects! 🎉  
+Watch PyPi https://pypi.org/project/GodRandom/#description
